@@ -1,0 +1,5 @@
+#!/bin/sh
+#
+
+matchbox-terminal&
+exec fluxbox
