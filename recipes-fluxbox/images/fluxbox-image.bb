@@ -1,4 +1,4 @@
-DESCRIPTION = "A very basic X11 image with a terminal"
+DESCRIPTION = "fluxbox Window Manager image"
 
 inherit core-image
 
