@@ -8,6 +8,7 @@ DEPENDS = "virtual/libx11 fluxbox-session"
 
 PV="1.3.5"
 SRC_URI = "git://git.fluxbox.org/fluxbox.git;protocol=git;tag=Release-1_3_5"
-S = "${WORKDIR}/git"
-
 inherit autotools pkgconfig
+
+S = "${WORKDIR}/git"
+B = "${S}"
