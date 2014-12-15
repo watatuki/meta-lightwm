@@ -1,4 +1,7 @@
-meta-fluxbox
+meta-litewm
 ============
 
-fluxbox windowmanager recipes for Yocto
+Lite windowmanagers recipes for Yocto
+
+fluxbox
+jwm
