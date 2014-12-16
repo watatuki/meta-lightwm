@@ -1,7 +1,7 @@
-meta-litewm
+meta-lightewm
 ============
 
-Lite windowmanagers recipes for Yocto
+Light windowmanagers recipes for Yocto
 
-fluxbox
-jwm
+1. fluxbox
+2. jwm
