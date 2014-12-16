@@ -1,4 +1,4 @@
-meta-lightewm
+meta-lightwm
 ============
 
 Light windowmanagers recipes for Yocto
