@@ -1,5 +1,5 @@
-DESCRIPTION = "Mini X session files for fluxbox"
-HOMEPAGE = "https://github.com/watatuki/meta-fluxbox"
+DESCRIPTION = "Mini X session files for JWM"
+HOMEPAGE = "https://github.com/watatuki/meta-lightwm"
 
 LICENSE = "MIT"
 
