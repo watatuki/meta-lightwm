@@ -1,4 +1,4 @@
-DESCRIPTION = "fluxbox Window Manager image"
+DESCRIPTION = "JWM image"
 
 inherit core-image
 
